@@ -66,23 +66,64 @@ public class test {
 //    //  Question no 4 //
 //    public static void main(String[] args) {
 //
-//        int age;
-//        double price;
-//        char percentage;
-//        boolean Nonstop;
-//        byte ;
-//        short;
-//        long;
-//        float;
+//        int A = 20;
+//        double B = 70.80;
+//        char C = 'A';
+//        boolean D = false;
+//        byte E = 30;
+//        short F = 50;
+//        long G = 9699095952l;
+//        float H = 23.3f;
 //
 //
-//        System.out.println("Enter student age ");
-//        System.out.println("Enter the  price");
-//        System.out.println("Enter the Percentage");
-//        System.out.println("Enter the Raining");
+//        System.out.println(A);
+//        System.out.println(B);
+//        System.out.println(C);
+//        System.out.println(D);
+//        System.out.println(E);
+//        System.out.println(F);
+//        System.out.println(G);
+//        System.out.println(H);
+//
+//
+//
+//    }
+
+
+
+//    Question no = 5
+
+//    public static void main (String [] args ) {
+//
+//
+//        int length;
+//        int width;
+//        int area;
+//        int paramiter;
+//
+//        Scanner scan = new Scanner(System.in);
+//        System.out.println("enter leangth of a rectangle:");
+//        length = scan.nextInt();
+//
+//        System.out.println("enter width of a rectangle");
+//        width = scan.nextInt();
+//
+//        area = length*width;
+//        paramiter = 2*(length+width);
+//
+//        System.out.println("area of rectangl: +area");
+//        System.out.println("Paramiter of rectangle: + area");
 //
 //
 //
 //
 //    }
-//}
+
+//     Question no 6;
+
+
+      public static void main (String [] args){
+
+
+      }
+
